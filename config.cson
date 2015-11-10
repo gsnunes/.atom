@@ -1,0 +1,18 @@
+"*":
+  "exception-reporting":
+    userId: "a9813a06-c136-d92a-0133-b1a98cf2ecdc"
+  welcome:
+    showOnStartup: false
+  core:
+    autoHideMenuBar: true
+    openEmptyEditorOnStart: false
+    projectHome: "C:\\Users\\Guilherme\\workspace"
+  editor:
+    invisibles: {}
+    tabLength: 4
+  linter:
+    showErrorTabProject: false
+    showErrorInline: false
+    underlineIssues: false
+    showErrorPanel: false
+  "linter-jscs": {}
