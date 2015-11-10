@@ -10,9 +10,17 @@
   editor:
     invisibles: {}
     tabLength: 4
+    showInvisibles: true
+    tabType: "hard"
+    fontSize: 12
   linter:
     showErrorTabProject: false
     showErrorInline: false
     underlineIssues: false
     showErrorPanel: false
   "linter-jscs": {}
+  "terminal-plus":
+    core: {}
+    style: {}
+  "linter-jshint":
+    disableWhenNoJshintrcFileInPath: true
